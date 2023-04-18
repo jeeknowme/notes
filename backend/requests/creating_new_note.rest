@@ -1,0 +1,9 @@
+POST HTTP://localhost:3001/api/phonebook
+Content-Type: application/json
+
+{
+    "content": "rks",
+    "important": true,
+    "name": "Ebery thing",
+    "number": "2134324324324"
+}

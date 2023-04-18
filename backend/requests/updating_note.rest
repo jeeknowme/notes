@@ -1,0 +1,9 @@
+PUT HTTP://localhost:3001/api/phonebook/643d5478360f90b4e8514e9a
+Content-Type: application/json
+
+{
+    "content": "Hey yow mga kaibigan",
+    "important": false,
+    "name": "Ebery body",
+    "number": "2134324323423424324"
+}
